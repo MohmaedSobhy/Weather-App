@@ -18,7 +18,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val API="143098d761432cee5bd930e805e02401"
+    val API="Write Your API"
     val CITY="cairo"
 
     override fun onCreate(savedInstanceState: Bundle?) {
